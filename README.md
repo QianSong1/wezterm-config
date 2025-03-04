@@ -1,3 +1,29 @@
+<div align="center" id="madewithlua">
+  <img
+    src="https://raw.githubusercontent.com/wezterm/wezterm/main/assets/icon/wezterm-icon.svg"
+    width="110"
+    ,
+    height="100"
+  />
+</div>
+
+<h1 align="center">WezTerm</h1>
+
+[![GitHub Release](https://img.shields.io/github/v/release/QianSong1/wezterm-config?style=flat-square&logo=starship&logoColor=D9E0EE&labelColor=302D41&color=c0109f)](https://github.com/QianSong1/wezterm-config/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/QianSong1/wezterm-config?style=flat-square&logo=apachespark&logoColor=D9E0EE&labelColor=302D41&color=8bd5ca)](https://github.com/QianSong1/wezterm-config/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/QianSong1/wezterm-config?style=flat-square&logo=issuu&logoColor=D9E0EE&labelColor=302D41&color=dcdf03)](https://github.com/QianSong1/wezterm-config/issues)
+[![GitHub License](https://img.shields.io/github/license/QianSong1/wezterm-config?style=flat-square&logo=gitbook&logoColor=D9E0EE&label=license&labelColor=302D41&color=df03c6)](https://github.com/QianSong1/wezterm-config/blob/main/LICENSE)
+[![Static Badge](https://img.shields.io/badge/QQ-1725099638-d583c7?style=flat-square&logo=qq&logoColor=D9E0EE&label=QQ&labelColor=302D41&color=d583c7)](https://github.com/QianSong1/wezterm-config)
+
+<p align="center" style="font-weight: bold;">
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by <a href="https://github.com/wez">@wez</a> and implemented in <a href="https://www.rust-lang.org">Rust</a>
+</p>
+<p align="center">
+User facing docs and guide at: <a style="font-weight: bold;" href="https://wezterm.org">wezterm.org</a>
+</p>
+
+
+
 # 我的WezTerm配置
 
 **截图一**
