@@ -40,9 +40,9 @@ User facing docs and guide at: <a style="font-weight: bold;" href="https://wezte
 
 - <https://github.com/rxi/lume>
 - <https://github.com/catppuccin/wezterm>
-- <https://github.com/wez/wezterm/discussions/628#discussioncomment-1874614>
-- <https://github.com/wez/wezterm/discussions/628#discussioncomment-5942139>
-- <https://github.com/wez/wezterm/discussions/628#discussioncomment-3649195>
+- <https://github.com/wezterm/wezterm/discussions/628#discussioncomment-1874614>
+- <https://github.com/wezterm/wezterm/discussions/628#discussioncomment-5942139>
+- <https://github.com/wezterm/wezterm/discussions/628#discussioncomment-3649195>
 
 
 
@@ -56,7 +56,7 @@ User facing docs and guide at: <a style="font-weight: bold;" href="https://wezte
 
 **1、安装`wezterm`终端**
 
-[WezTerm终端](https://github.com/wez/wezterm/releases)
+[WezTerm终端](https://github.com/wezterm/wezterm/releases)
 
 安装目录：C:\soft\WezTerm-windows
 
