@@ -111,7 +111,10 @@ Alt+r           --重置字体大小
 
 win+r 输入 regedit 打开注册表编辑器，依次展开`HKEY_CLASSES_ROOT`
 
-底下的 `HKEY_CLASSES_ROOT\Directory` 底下的 `HKEY_CLASSES_ROOT\Directory\Background` 底下的  `HKEY_CLASSES_ROOT\Directory\Background\shell` 新建一个项 `wezterm` ，在 `wezterm` 编辑 `Icon` 数据指向wezterm安装程序图标，编辑 `（默认）` 数据为菜单名称如 `Open Wezterm Here`，
+- 底下的 `HKEY_CLASSES_ROOT\Directory` 
+- 底下的 `HKEY_CLASSES_ROOT\Directory\Background` 
+- 底下的  `HKEY_CLASSES_ROOT\Directory\Background\shell` 
+- 新建一个项 `wezterm` ，在 `wezterm` 编辑 `Icon` 数据指向wezterm安装程序图标，编辑 `（默认）` 数据为菜单名称如 `Open Wezterm Here`，
 
 ![image-20240905172247861](img/image-20240905172247861.png)  
 
