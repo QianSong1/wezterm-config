@@ -1,0 +1,30 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+# For all *.sh file indent_size is 4, indent_style is space
+[*.sh]
+indent_style = space
+indent_size = 4
+
+# For all *.lua file indent_size is 2, indent_style is space
+[*.lua]
+indent_style = space
+indent_size = 2
+
+# For all *.yml and *.yaml file indent_size is 2, indent_style is space
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+# For file name is Dockerfile indent_size is 4, indent_style is space
+[Dockerfile]
+indent_style = space
+indent_size = 4
