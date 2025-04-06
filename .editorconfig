@@ -8,11 +8,13 @@ root = true
 charset = utf-8
 end_of_line = lf
 insert_final_newline = true
+trim_trailing_whitespace = true
 
 # For all *.sh file indent_size is 4, indent_style is space
 [*.sh]
 indent_style = space
 indent_size = 4
+max_line_length = 80
 
 # For all *.lua file indent_size is 2, indent_style is space
 [*.lua]
@@ -28,3 +30,7 @@ indent_size = 2
 [Dockerfile]
 indent_style = space
 indent_size = 4
+
+# For all *.md file trim_trailing_whitespace is false
+[*.md]
+trim_trailing_whitespace = false
