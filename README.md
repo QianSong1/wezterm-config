@@ -9,11 +9,14 @@
 
 <h1 align="center">WezTerm</h1>
 
-[![GitHub Release](https://img.shields.io/github/v/release/QianSong1/wezterm-config?style=flat-square&logo=starship&logoColor=D9E0EE&labelColor=302D41&color=c0109f)](https://github.com/QianSong1/wezterm-config/releases)
-[![GitHub Repo stars](https://img.shields.io/github/stars/QianSong1/wezterm-config?style=flat-square&logo=apachespark&logoColor=D9E0EE&labelColor=302D41&color=8bd5ca)](https://github.com/QianSong1/wezterm-config/stargazers)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/QianSong1/wezterm-config?style=flat-square&logo=issuu&logoColor=D9E0EE&labelColor=302D41&color=dcdf03)](https://github.com/QianSong1/wezterm-config/issues)
-[![GitHub License](https://img.shields.io/github/license/QianSong1/wezterm-config?style=flat-square&logo=gitbook&logoColor=D9E0EE&label=license&labelColor=302D41&color=df03c6)](https://github.com/QianSong1/wezterm-config/blob/main/LICENSE)
-[![Static Badge](https://img.shields.io/badge/QQ-1725099638-d583c7?style=flat-square&logo=qq&logoColor=D9E0EE&label=QQ&labelColor=302D41&color=d583c7)](https://github.com/QianSong1/wezterm-config)
+<div align="center">
+  <a href="https://github.com/QianSong1/wezterm-config/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/QianSong1/wezterm-config?style=for-the-badge&logo=starship&logoColor=D9E0EE&labelColor=302D41&color=c0109f" /></a>
+  <a href="https://github.com/QianSong1/wezterm-config/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QianSong1/wezterm-config?style=for-the-badge&logo=apachespark&logoColor=D9E0EE&labelColor=302D41&color=8bd5ca" /></a>
+  <a href="https://github.com/QianSong1/wezterm-config/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/QianSong1/wezterm-config?style=for-the-badge&logo=issuu&logoColor=D9E0EE&labelColor=302D41&color=dcdf03" /></a>
+  <br />
+  <a href="https://github.com/QianSong1/wezterm-config/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/QianSong1/wezterm-config?style=for-the-badge&logo=gitbook&logoColor=D9E0EE&label=license&labelColor=302D41&color=df03c6" /></a>
+  <a href="https://github.com/QianSong1/wezterm-config"><img alt="Static Badge" src="https://img.shields.io/badge/QQ-1725099638-d583c7?style=for-the-badge&logo=qq&logoColor=D9E0EE&label=QQ&labelColor=302D41&color=d583c7" /></a>
+</div>
 
 <p align="center" style="font-weight: bold;">
 A GPU-accelerated cross-platform terminal emulator and multiplexer written by <a href="https://github.com/wez">@wez</a> and implemented in <a href="https://www.rust-lang.org">Rust</a>
