@@ -22,7 +22,7 @@ M.colors = {
   },
   is_active = {
     bg = "#6F8C36",
-    fg = "#1E1E2E",
+    fg = "#181825",
   },
 
   hover = {
