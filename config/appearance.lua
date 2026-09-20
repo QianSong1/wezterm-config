@@ -17,27 +17,27 @@ return {
   window_background_opacity = 1.00,
   win32_system_backdrop = "Acrylic",
   window_background_gradient = {
-    colors = { "#1D261B", "#261A25" },
+    colors = { "#1E1E2E", "#1E1E2E" },
     -- Specifices a Linear gradient starting in the top left corner.
     orientation = { Linear = { angle = -45.0 } },
   },
-  background = {
-    {
-      source = { File = wezterm.config_dir .. "/backdrops/space.jpg" },
-    },
-    {
-      source = { Color = "#1A1B26" },
-      height = "100%",
-      width = "100%",
-      opacity = 0.95,
-    },
-  },
+  -- background = {
+  --   {
+  --     source = { File = wezterm.config_dir .. "/backdrops/space.jpg" },
+  --   },
+  --   {
+  --     source = { Color = "#1A1B26" },
+  --     height = "100%",
+  --     width = "100%",
+  --     opacity = 0.95,
+  --   },
+  -- },
 
   -- scrollbar
   enable_scroll_bar = true,
   min_scroll_bar_height = "3cell",
   colors = {
-    scrollbar_thumb = "#34354D",
+    scrollbar_thumb = "#2D2E42",
   },
 
   -- tab bar
@@ -70,8 +70,8 @@ return {
   },
   window_close_confirmation = "AlwaysPrompt",
   window_frame = {
-    active_titlebar_bg = "#0F2536",
-    inactive_titlebar_bg = "#0F2536",
+    active_titlebar_bg = "#181825",
+    inactive_titlebar_bg = "#181825",
     -- font = fonts.font,
     -- font_size = fonts.font_size,
   },
